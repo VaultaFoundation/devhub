@@ -3,8 +3,8 @@
   "created_at": 1670445225483,
   "slug": "getting-started-with-eos",
   "slug_hash": "399084aef0ffe28af83f3a743bfe7f7329b3c8fdadcc91ab8e467ae07cf5a646",
-  "title": "Getting started with EOS",
-  "description": "Get to know the basics of EOS with short and easy to understand videos",
+  "title": "Getting started with Vaulta",
+  "description": "Get to know the basics of Vaulta with short and easy to understand videos",
   "episodes": [
     {
       "id": "what-is-a-blockchain",
@@ -163,7 +163,7 @@
         },
         {
           "id": "what_is_the_standard_language",
-          "text": "What is the standard language for EOS development?",
+          "text": "What is the standard language for Vaulta development?",
           "possible_answers": {
             "0": "Rust",
             "1": "Go",

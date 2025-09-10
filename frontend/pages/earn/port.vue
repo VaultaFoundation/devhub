@@ -38,7 +38,7 @@
         <li>You may not steal assets (branding, images, etc)</li>
         <li>The application should be as close to the original as possible</li>
         <li>You can not port the same app multiple times</li>
-        <li>You must port apps to the EOS Mainnet</li>
+        <li>You must port apps to the Vaulta Mainnet</li>
         <li>You can not do a token sale</li>
       </ul>
     </section>
@@ -49,7 +49,7 @@
       <p>
         Once you have completed porting one of the requested applications, you can click the "Claim" button below to request a payout. You will
         be paired up with one of our advocates who will review the application with you. They will record the session and will forward that one to
-        a committee of reviewers who will then grade the application. If you pass the threshold for approval, you will be paid in EOS.
+        a committee of reviewers who will then grade the application. If you pass the threshold for approval, you will be paid in A.
       </p>
     </section>
 

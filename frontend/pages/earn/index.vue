@@ -76,7 +76,7 @@ export default {
       },
       // {
       //   title:'Help grow the community',
-      //   description:"Earn money by helping to expand the EOS community!",
+      //   description:"Earn money by helping to expand the Vaulta community!",
       //   buttonText:"Find out more",
       //   route:'https://eosnetwork.com/blog/the-road-to-10k-growing-the-eos-discord-community/',
       //   image:`https://eosnetwork.com/wp-content/uploads/2022/08/Road_To_10k-1024x576.png`,

@@ -4,7 +4,7 @@
   "slug": "verify-your-contract-using-hardhat",
   "slug_hash": "f9e1a30a0ad4f1a862e35dbd87f9affabfcd62af6040b6c2ef8374caf24040f3",
   "title": "Verify your contract using Hardhat",
-  "description": "Learn how to verify your contract on the EOS EVM.",
+  "description": "Learn how to verify your contract on the Vaulta EVM.",
   "episodes": [
     {
       "id": "verify-using-hardhat",
