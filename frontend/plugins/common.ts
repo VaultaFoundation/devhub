@@ -26,8 +26,8 @@ export default (context, inject) => {
       }
     },
     head(){
-      const description = `Watch video courses on blockchain development for the EOS Network`;
-      const title = `Learn EOS Blockchain Development`;
+      const description = `Watch video courses on blockchain development for the Vaulta Network`;
+      const title = `Learn Vaulta Blockchain Development`;
       return {
         title,
         meta: [

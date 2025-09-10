@@ -12,7 +12,7 @@
 export default {
   head() {
     return {
-      title: "Developers - EOS Network"
+      title: "Developers - Vaulta Network"
     };
   },
   created() {

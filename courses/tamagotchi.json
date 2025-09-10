@@ -4,7 +4,7 @@
   "slug": "build-a-tamagotchi",
   "slug_hash": "",
   "title": "Build a Tamagotchi game",
-  "description": "Build a Tamagotchi game to learn how to use EOS Native C++, SvelteKit and WharfKit",
+  "description": "Build a Tamagotchi game to learn how to use Vaulta Native C++, SvelteKit and WharfKit",
   "episodes": [
     {
       "id": "tamagotchi",
@@ -47,7 +47,7 @@
         },
         {
           "id": "what_is_the_web_sdk",
-          "text": "What is the JavaScript SDK for EOS called?",
+          "text": "What is the JavaScript SDK for Vaulta called?",
           "possible_answers": {
             "0": "WinkleKit",
             "1": "WaffleKit",
